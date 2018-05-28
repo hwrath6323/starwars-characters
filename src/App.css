@@ -1,0 +1,12 @@
+.App {
+  padding-top: 105px;
+}
+
+.itemList {
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(2, 385px);
+  grid-gap: 20px;
+  justify-content: center;
+}

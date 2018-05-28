@@ -1,0 +1,8 @@
+.item-summary {
+    list-style: none;
+    box-shadow: 0px 3px 10px 5px rgba(165, 162, 189, 0.562);
+    padding: 40px;
+    margin: 0;
+    border-radius: 2px;
+    width: 300px;
+}
